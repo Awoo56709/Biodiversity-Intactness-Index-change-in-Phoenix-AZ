@@ -1,6 +1,6 @@
 # Biodiversity-Intactness-Index-change-in-Phoenix-AZ
 
-You can access the full analysis of the project in this [Github repository]([https://github.com/Awoo56709/Biodiversity-Intactness-Index-change-in-Phoenix-AZ](https://github.com/Awoo56709/Biodiversity-Intactness-Index-change-in-Phoenix-AZ/tree/main))
+You can access the full analysis of the project in this [Github repository]([https://github.com/Awoo56709/Biodiversity-Intactness-Index-change-in-Phoenix-AZ](https://github.com/Awoo56709/Biodiversity-Intactness-Index-change-in-Phoenix-AZ/tree/main)
 
 ## About
 ### Purpose
